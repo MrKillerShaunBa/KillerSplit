@@ -13,6 +13,10 @@ I got the inspiration and motivation after looking at so many cool designs in r/
 - ZMK Firmware
 - Hotswappable
 
+
+![assembled left](./assets/Left_Assembled.png)
+![assembled right](./assets/Right_Assembled.png)
+
 ## CAD
 Left | Right
 :---:|:---:
