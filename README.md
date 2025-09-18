@@ -14,10 +14,22 @@ I got the inspiration and motivation after looking at so many cool designs in r/
 - Hotswappable
 
 ## CAD
+Left | Right
+:---:|:---:
+![case left](./assets/case_left.png) | ![case right](./assets/case_right.png)
 
 ## PCB
 
+![schematic](./assets/schematic.png)
+Left | Right
+:---:|:---:
+![Left PCB](./assets/left_pcb.png) | ![Right PCB](./assets/right_pcb.png)
+
 ## ZMK Keymap
+
+![default](./assets/default_layer.png)
+![lower](./assets/lower_layer.png)
+![raise](./assets/raise_layer.png)
 
 ### BOM
 
@@ -30,6 +42,7 @@ I got the inspiration and motivation after looking at so many cool designs in r/
 | Choc hotswap Sockets | 50 | Typeractive | - | 7.50 | [here](https://typeractive.xyz/products/hotswap-sockets?variant=45742200324327) |
 | MBK Choc Keycaps 1.5u | 2 | Typeractive | - | 1.50 | [here](https://typeractive.xyz/products/mbk-keycaps?variant=45419753210087) |
 | MBK Choc Keycaps 1u | 40 | Typeractive | - | 12 | [here](https://typeractive.xyz/products/mbk-keycaps?variant=45419753079015) |
+| Tenting Feet | 4 | Typeractive | - | 15 | [here](https://typeractive.xyz/products/tenting-feet) |
 | Lithium Battery 110mah | 2 | Typeractive | - | 8 | [here](https://typeractive.xyz/products/lithium-battery-110mah?variant=46118748291303) |
 | Mill-Max Sockets and Pins (12 pin) | 2 sets | Typeractive | - | 13 | [here](https://typeractive.xyz/products/machine-sockets-and-pins?variant=45741664469223) |
 | Choc Switch Opener | 1 | Typeractive | - | 3 | [here](https://typeractive.xyz/products/switch-opener?variant=45535960662247) |
@@ -43,4 +56,4 @@ I got the inspiration and motivation after looking at so many cool designs in r/
 | Oled Display 0.91inch I2C | 2 | Grounded Inventory | - | - | - |
 | M2 Standoff and Screws (Assorted) | 10 sets | StacksKB | 421 | 4.8 | (10x5mm standoff, 10x5mm screw, 10x8mm screw)[here](https://stackskb.com/product-category/parts/fasteners/) |
 
-Total (using coupon)= $129
+Total (using coupon)= $144
