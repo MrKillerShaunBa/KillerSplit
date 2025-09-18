@@ -1,6 +1,23 @@
 # KillerSplit
 
 An ergonomic, wireless, split, low-profile keyboard. This is a fusion between a Corne and a ZMK Voyager. It has a 6-column layout like the Corne, but the thumb buttons are placed like a Voyager.
+I got the inspiration and motivation after looking at so many cool designs in r/ErgoMechKeyboards so wanted to make one of my own.
+
+## Features
+
+- Column staggered
+- Ortholinear
+- 42 keys
+- Low profile Choc Tactile Switches
+- Wireless
+- ZMK Firmware
+- Hotswappable
+
+## CAD
+
+## PCB
+
+## ZMK Keymap
 
 ### BOM
 
