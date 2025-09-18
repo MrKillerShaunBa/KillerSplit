@@ -24,5 +24,6 @@ An ergonomic, wireless, split, low-profile keyboard. This is a fusion between a 
 | ProMicro nrf52840 Board | 2 | Probots | 1,417 | 16.50 | (Includes Shipping)[here](https://probots.co.in/pro-micro-nrf52840-development-board-compatible-with-nice-nano-v2-0.html) |
 | Diodes 1n4148 | 42 | Grounded Inventory | - | - | - |
 | Oled Display 0.91inch I2C | 2 | Grounded Inventory | - | - | - |
+| M2 Standoff and Screws (Assorted) | 10 sets | StacksKB | 421 | 4.8 | (10x5mm standoff, 10x5mm screw, 10x8mm screw)[here](https://stackskb.com/product-category/parts/fasteners/) |
 
-Total (using coupon)= $124
+Total (using coupon)= $129
