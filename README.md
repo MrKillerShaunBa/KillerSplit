@@ -56,8 +56,8 @@ Left | Right
 | JLC Discount | - | JLCPCB | - | -20 | - |
 | Case and Plates | - | Print Legion | - | ~5 | Only Shipping |
 | ProMicro nrf52840 Board | 2 | Probots | 1,417 | 16.50 | (Includes Shipping)[here](https://probots.co.in/pro-micro-nrf52840-development-board-compatible-with-nice-nano-v2-0.html) |
-| Diodes 1n4148 | 5*10 | StacksKB | 75 | 0.85 | - |
-| Oled Display 0.91inch I2C | 2 | Grounded Inventory | - | - | - |
+| Diodes 1n4148 | 5*10 | StacksKB | 75 | 0.85 | [here](https://stackskb.com/store/1n4148-through-hole-diode/) |
+| Oled Display 0.91inch I2C | 2 | Probots | 598 | 7.6 | [here](https://probots.co.in/0-91-oled-display-white-128x32-for-arduino-raspberry-pi-i2c.html) |
 | M2 Standoff and Screws (Assorted) | 10 sets | StacksKB | 421 | 4.8 | (10x5mm standoff, 10x5mm screw, 10x8mm screw)[here](https://stackskb.com/product-category/parts/fasteners/) |
 
-Total (using coupon)= $144
+Total (using coupon)= $152
