@@ -3,6 +3,14 @@
 An ergonomic, wireless, split, low-profile keyboard. This is a fusion between a Corne and a ZMK Voyager. It has a 6-column layout like the Corne, but the thumb buttons are placed like a Voyager.
 I got the inspiration and motivation after looking at so many cool designs in r/ErgoMechKeyboards so wanted to make one of my own.
 
+Link to demo-[https://www.youtube.com/shorts/nLBKlfsz7i4](https://www.youtube.com/shorts/nLBKlfsz7i4)
+
+![oled](https://github.com/user-attachments/assets/f562f993-20c8-43f6-930b-d2d696f2134c)
+
+![complete_2](https://github.com/user-attachments/assets/efa2d511-d728-4b20-8e70-b7562cf9a785)
+
+
+
 ## Features
 
 - Column staggered
